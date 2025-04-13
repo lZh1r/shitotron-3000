@@ -1,5 +1,4 @@
 <h1>Shitotron 3000 Logisim CPU</h1>
-![image](https://github.com/user-attachments/assets/cdff81b5-76e0-437b-832c-d51f4f686af0)
 <p>A really crappy cpu built as a part of my uni studies.</p>
 <h2>Overview</h2>
 <p>The cpu was originally being built with Harvard architecture in mind, but somewhere along the way something went terribly wrong and now I have this.</p>
