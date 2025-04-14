@@ -15,6 +15,7 @@
   <li>idle: "0000xxxx"</li>
   <li>input: "0001xxxx"</li>
   <li>jump: "0010xxxx"</li>
+  <li>write from alu register: "0011xxxx"</li>
   <li>write to ALU register: "0101xxxx"</li>
   <li>clear RAM: "01110000"</li>
   <li>sum with a number in ALU register: "1001xxxx"</li>

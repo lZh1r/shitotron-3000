@@ -1,5 +1,8 @@
-idle
 input 0000
-input 0001
 alu 0000
+sum 0000
+write 0001
+sum 0000
+write 0000
 sum 0001
+jump 0011
