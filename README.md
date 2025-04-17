@@ -7,8 +7,8 @@
 <h3>Instructions</h3>
 <p>Instructions follow this pattern:</p>
 <p>X.YYY.ZZZZ</p>
-<p>where X defines wether an operation involves ALU or not</p>
-<p>Y defines the operation itsself</p>
+<p>where X defines whether an operation involves ALU or not</p>
+<p>Y defines the operation itself</p>
 <p>and Z define an address of memory cell to operate with/on</p>
 <h3>Current list of instructions</h3>
 <ol>
@@ -31,4 +31,4 @@
 <p>To use it create a .ass file with your set of instructions (each pair action-value should be on a separate line!). Then run the python script and input your file's name (include extension).
   After compilation is done open up cpu.circ file in Logisim, right click the instructions RAM module -> Edit Contents -> Open your file and your good to go.</p>
   <h3>A little warning</h3>
-  <p>Currently the CPU has no way of hulting or going out of loops (except for overflowing)! (Maybe will be implemented in far future)</p>
+  <p>Currently the CPU has no way of halting or going out of loops (except for overflowing)! (Maybe will be implemented in far future)</p>
